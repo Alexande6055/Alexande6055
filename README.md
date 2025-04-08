@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hola, soy Alexander 👋
 
-<!--
-**Alexande6055/Alexande6055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado por el **desarrollo de software**, con enfoque en la creación de **APIs REST**. Actualmente me especializo en **NestJS** con **TypeScript** para el backend, pero también tengo experiencia con **Java** y **Spring Boot**. Además, me encuentro aprendiendo **React Native** para el desarrollo de aplicaciones móviles y explorando nuevas tecnologías para mejorar mis habilidades.
 
-Here are some ideas to get you started:
+## Tecnologías y Herramientas ⚙️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** NestJS (TypeScript), Spring Boot (Java), Kotlin (Android Studio)
+- **Frontend:** React Native, JavaScript
+- **Bases de Datos:** SQL (TypeORM), Firebase
+- **Autenticación:** Firebase Authentication
+- **Otros:** API Restful, Testing, Git, Docker
+
+## 🌱 En constante aprendizaje
+
+Mi pasión es **aprender y desarrollar software**. Siempre estoy buscando nuevas tecnologías y herramientas para mejorar mis habilidades y crear aplicaciones útiles y escalables.
