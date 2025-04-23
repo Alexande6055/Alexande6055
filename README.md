@@ -6,7 +6,7 @@ Soy un desarrollador apasionado por el **desarrollo de software**, con enfoque e
 
 - **Backend:** NestJS (TypeScript), Spring Boot (Java), Kotlin (Android Studio)
 - **Frontend:** React Native, JavaScript
-- **Bases de Datos:** SQL (TypeORM), Firebase
+- **Bases de Datos:** SQL ,TypeORM, Firebase
 - **Autenticación:** Firebase Authentication
 - **Otros:** API Restful, Testing, Git, Docker
 
